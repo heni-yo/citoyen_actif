@@ -1,0 +1,23 @@
+# Normaliser les fins de ligne (CRLF sur Windows -> LF sur le serveur)
+* text=auto
+*.ts text eol=lf
+*.tsx text eol=lf
+*.js text eol=lf
+*.json text eol=lf
+*.md text eol=lf charset=utf-8
+*.css text eol=lf
+*.html text eol=lf
+*.xml text eol=lf
+
+# Fichiers binaires
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.mp4 binary
+*.jar binary
+
+# Gradle
+*.gradle text eol=lf
+gradlew text eol=lf
+*.bat text eol=crlf
