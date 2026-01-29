@@ -1,0 +1,7 @@
+{
+  "name": "CitoyenActif",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}

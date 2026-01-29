@@ -1,0 +1,13 @@
+.empty-state {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 50vh;
+  padding: 20px;
+}
+
+ion-card {
+  margin: 10px;
+  cursor: pointer;
+}
+

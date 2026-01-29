@@ -1,0 +1,13 @@
+.register-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100%;
+  padding: 20px;
+}
+
+.register-container ion-card {
+  width: 100%;
+  max-width: 400px;
+}
+
